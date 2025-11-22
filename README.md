@@ -16,7 +16,7 @@ Smart Health Assistant is a simple Python console application that helps users m
 - Standard Python modules only (no external libraries required)
 
 ## Steps to Install & Run the Project
-1.	Clone the repository:
+1.	Clone the repository:https://colab.research.google.com/drive/1oedtVz-ipwDnsjI2Ks-ir9vwNMSB0eko?usp=drive_link
 2.	Change to the project directory: cd smart-health-assistant
 3.	 Run the program: python main.py
 
